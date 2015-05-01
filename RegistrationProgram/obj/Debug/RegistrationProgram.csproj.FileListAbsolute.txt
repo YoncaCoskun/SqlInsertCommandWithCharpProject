@@ -1,0 +1,9 @@
+c:\users\yonca\documents\visual studio 2013\Projects\RegistrationProgram\RegistrationProgram\bin\Debug\RegistrationProgram.exe.config
+c:\users\yonca\documents\visual studio 2013\Projects\RegistrationProgram\RegistrationProgram\bin\Debug\RegistrationProgram.exe
+c:\users\yonca\documents\visual studio 2013\Projects\RegistrationProgram\RegistrationProgram\bin\Debug\RegistrationProgram.pdb
+c:\users\yonca\documents\visual studio 2013\Projects\RegistrationProgram\RegistrationProgram\obj\Debug\RegistrationProgram.csprojResolveAssemblyReference.cache
+c:\users\yonca\documents\visual studio 2013\Projects\RegistrationProgram\RegistrationProgram\obj\Debug\RegistrationProgram.Form1.resources
+c:\users\yonca\documents\visual studio 2013\Projects\RegistrationProgram\RegistrationProgram\obj\Debug\RegistrationProgram.Properties.Resources.resources
+c:\users\yonca\documents\visual studio 2013\Projects\RegistrationProgram\RegistrationProgram\obj\Debug\RegistrationProgram.csproj.GenerateResource.Cache
+c:\users\yonca\documents\visual studio 2013\Projects\RegistrationProgram\RegistrationProgram\obj\Debug\RegistrationProgram.exe
+c:\users\yonca\documents\visual studio 2013\Projects\RegistrationProgram\RegistrationProgram\obj\Debug\RegistrationProgram.pdb
